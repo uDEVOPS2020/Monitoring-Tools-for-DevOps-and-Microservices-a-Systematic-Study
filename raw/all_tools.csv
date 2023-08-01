@@ -1,0 +1,296 @@
+Nagios enterprise,https://www.nagios.com/
+Nagios exchange,https://exchange.nagios.org/
+Nagios core github,https://github.com/NagiosEnterprises/nagioscore
+Nagios chinese,https://sourceforge.net/projects/nagios-cn/files/?source=navbar
+Nagios,http://canuxcheng.com/devops/Monitoring_Nagios.html
+Zabbix enterprise,http://www.zabbix.com/
+Zabbix core,https://zabbix.org/wiki/Get_Zabbix
+Zabbix github,https://github.com/zabbix
+Ganglia,http://ganglia.info/
+Ganglia core github,https://github.com/ganglia/monitor-core
+Ganglia github,https://github.com/ganglia
+Zenoss,https://www.zenoss.org/
+Zenoss enterprise,https://www.zenoss.com/
+Zenoss core sf,https://sourceforge.net/projects/zenoss/
+Zenoss github,https://github.com/zenoss
+Opserver,http://opserver.org/
+Opserver github,https://github.com/opserver/Opserver
+netdata github,https://github.com/firehol/netdata
+Icinga,https://www.icinga.org/
+Icinga exchange,https://exchange.icinga.org/
+Icinga2 core github,https://github.com/Icinga/icinga2
+Icinga chinese,https://sourceforge.net/projects/icinga-cn/files/
+Naemon,http://www.naemon.org/
+Naemon core github,https://github.com/naemon/naemon-core
+Shinken,http://www.shinken-monitoring.org/
+Shinken core github,https://github.com/naparuba/shinken
+Shinken exchange github,https://github.com/shinken-monitoring
+Centreon,https://www.centreon.com
+Centreon core github,https://github.com/centreon/centreon-engine
+Centreon plugins github,https://github.com/centreon/centreon-plugins
+Opsview,https://www.opsview.com/
+Opsview core,https://www.openhub.net/p/opsview
+Check_mk,http://mathias-kettner.de/check_mk.html
+check_mk exchange,http://mathias-kettner.com/check_mk_exchange.php?HTML=yes
+check_mk core git,http://git.mathias-kettner.de/git/?p=check_mk.git;a=tree
+Sensu github,https://github.com/sensu/sensu
+Sensu-plugins,http://sensu-plugins.io/
+Sensu-plugins github,https://github.com/sensu-plugins
+cabot github,https://github.com/arachnys/cabot
+server density,https://www.serverdensity.com/
+server density github,https://github.com/serverdensity
+pagerduty,https://www.pagerduty.com/
+pagerduty github,https://github.com/PagerDuty
+monitoring-plugins,https://www.monitoring-plugins.org/
+monitoring-plugins github,https://github.com/monitoring-plugins
+monitoring plugin development guidelines,https://www.monitoring-plugins.org/doc/guidelines.html
+monitoring-plugins perl,https://github.com/monitoring-plugins/monitoring-plugin-perl
+arguspy,https://github.com/crazy-canux/arguspy
+arguspy docs,http://arguspy.readthedocs.io/en/latest/
+check_wmi_plus.pl,http://www.edcint.co.nz/checkwmiplus/
+OSX-Monitoring-Tools,https://github.com/jedda/OSX-Monitoring-Tools
+check_fujitsu_health.pl,https://github.com/lausser/check_fujitsu_health
+check_hpasm.pl,https://github.com/lausser/check_hpasm
+check_nwc_health.pl,https://github.com/lausser/check_nwc_health
+check_tl_health.pl,https://github.com/lausser/check_tl_health
+check_raid.pl,https://github.com/glensc/nagios-plugin-check_raid
+check_sstcam.pl,https://github.com/lausser/check_sstcam
+check_wmware_api.pl,https://github.com/op5/check_vmware_api
+check_vmware_esx.pl,https://github.com/BaldMansMojo/check_vmware_esx
+openstack nagios plugins,https://github.com/cirrax/openstack-nagios-plugins
+check_mysql_health.pl,https://github.com/lausser/check_mysql_health
+check_oracle_health.pl,https://github.com/lausser/check_oracle_health
+check_db2_health.pl,https://github.com/lausser/check_db2_health
+check_mssql_health.pl,https://github.com/lausser/check_mssql_health
+check_mongodb.py,https://github.com/mzupan/nagios-plugin-mongodb
+check_postgres.pl,https://github.com/bucardo/check_postgres
+check_logfiles.pl,https://github.com/lausser/check_logfiles
+check events,https://github.com/pewo/nagios-plugins)
+check_generic,https://github.com/flackem/check_generic)
+check_multi,https://github.com/flackem/check_multi)
+check_sap_health.pl,https://github.com/lausser/check_sap_health
+check_mailbox_health.pl,https://github.com/lausser/check_mailbox_health
+check_elasticsearch.py,https://github.com/anchor/nagios-plugin-elasticsearch
+check_graphite_data.py,https://github.com/etsy/nagios_tools
+nagios-plugins-rabbitmq,https://github.com/nagios-plugins-rabbitmq/nagios-plugins-rabbitmq
+Celery-Nagios-Plugin,https://github.com/wilhelm-murdoch/Celery-Nagios-Plugin
+nagios-jenkins-plugin,https://github.com/jonlives/nagios-jenkins-plugin
+ceph-nagios-plugins,https://github.com/valerytschopp/ceph-nagios-plugins
+check_ssl_cert,https://github.com/matteocorti/check_ssl_cert
+nagios_erlang,https://github.com/lethain/nagios_erlang
+nagios snmp plugins,http://nagios.manubulon.com/
+nagios snmp plugins SF,https://sourceforge.net/projects/nagios-snmp/
+zplugin,https://github.com/crazy-canux/zplugin
+nagios plugins,https://github.com/innogames/igmonplugins
+nagios-addons github,https://github.com/NagiosEnterprises
+naemon-addons github,https://github.com/naemon
+icinga-addons github,https://github.com/Icinga
+shinken-addons github,https://github.com/shinken-monitoring
+NRPE github,https://github.com/NagiosEnterprises/nrpe
+NRPE_NT SF,https://sourceforge.net/projects/nrpent/
+NSCP,http://nsclient.org/
+NSCP github,https://github.com/mickem/nscp
+NCPA github,https://github.com/NagiosEnterprises/ncpa
+NDOUtils github,https://github.com/NagiosEnterprises/ndoutils
+IDOUtils github,https://github.com/Icinga
+naemon-livestatus github,https://github.com/naemon/naemon-livestatus
+mod-livestaus github,https://github.com/shinken-monitoring/mod-livestatus
+MK Livestatus,http://mathias-kettner.com/checkmk_livestatus.html
+MK Livestatus git,http://git.mathias-kettner.de/git/?p=check_mk.git;a=tree;f=livestatus;hb=HEAD
+MK OMD,http://omdistro.org/
+MK OMD git,http://git.mathias-kettner.de/git/?p=omd.git;a=tree
+NSCA github,https://github.com/NagiosEnterprises/nsca
+NSCA-ng,http://www.nsca-ng.org/
+NSCA-ng github,https://github.com/weiss/nsca-ng
+NRDP github,https://github.com/NagiosEnterprises/nrdp
+DNX,http://dnx.sourceforge.net/
+DNX github,https://github.com/DNX-Project/DNX
+gearman,http://gearman.org/
+gearman github,https://github.com/gearman/gearmand
+consol mod-gearman,http://www.mod-gearman.org/
+consol mod-gearman github,https://github.com/sni/mod_gearman
+op5 merlin,https://kb.op5.com/display/MERLIN/Distributed+%28Merlin%29+Home
+op5 merlin github,https://github.com/op5/merlin
+op5 Ninja,https://kb.op5.com/display/GUI/GUI+%28Ninja%29+Home
+op5 Ninja github,https://github.com/op5/ninja
+mod-webui github,https://github.com/shinken-monitoring/mod-webui
+icingaweb2 github,https://github.com/Icinga/icingaweb2
+consol thruk,http://www.thruk.org/
+consol thruk github,https://github.com/sni/Thruk
+nagdash github,https://github.com/lozzd/Nagdash
+nagstamon,https://nagstamon.ifw-dresden.de/
+nagstamon github,https://github.com/HenriWahl/Nagstamon
+coffeesaint,https://www.vanheusden.com/java/CoffeeSaint/
+coffeesaint github,https://github.com/flok99/CoffeeSaint
+nagmap github,https://github.com/hecko/nagmap/
+nagvis,http://www.nagvis.org/
+nagvis github,https://github.com/NagVis/nagvis
+realopinsight,http://realopinsight.com/
+realopinsight github,https://github.com/RealOpInsightLabs/realopinsight-workstation
+rrdtool,http://oss.oetiker.ch/rrdtool/
+rrdtool github,https://github.com/oetiker/rrdtool-1.x
+graphite-whisper github,https://github.com/graphite-project/whisper
+statsd github,https://github.com/etsy/statsd
+graphios github,https://github.com/shawn-sterling/graphios
+ledbetter github,https://github.com/github/ledbetter
+nagflux github,https://github.com/Griesbacher/nagflux
+nagiosgraph,http://nagiosgraph.sourceforge.net/
+nagiosgraph SF,https://sourceforge.net/projects/nagiosgraph/
+pnp4nagios,http://docs.pnp4nagios.org/
+pnp4nagios github,https://github.com/lingej/pnp4nagios
+Graphite carbon github ,https://github.com/graphite-project/carbon
+Graphite web github,https://github.com/graphite-project/graphite-web
+nagios.vim,https://github.com/crazy-canux/nagios.vim
+icinga2.vim,https://github.com/crazy-canux/icinga2.vim
+nconf,http://www.nconf.org/dokuwiki/doku.php
+nconf github,https://github.com/nconf/nconf
+adagios,http://adagios.org/
+adagios github,https://github.com/opinkerfi/adagios
+dokuwiki,https://www.dokuwiki.org/dokuwiki/
+dokuwiki github,https://github.com/splitbrain/dokuwiki
+nagiosBPI github,https://github.com/NagiosEnterprises/nagiosbpi
+BP,http://bp-addon.monitoringexchange.org/
+BP github,https://github.com/booboo-at-gluga-de/bp-addon
+NSTI github,https://github.com/NagiosEnterprises/nsti
+nagios-mib github,https://github.com/nagios-plugins/nagios-mib
+nagiosvshell github,https://github.com/NagiosEnterprises/nagiosvshell
+pynag,http://pynag.org/
+pynag github,https://github.com/pynag/pynag
+nagios-api github,https://github.com/zorkian/nagios-api
+nagiosharder github,https://github.com/railsmachine/nagiosharder
+nagrestconf,http://nagrestconf.smorg.co.uk/
+nagrestconf github,https://github.com/mclarkson/nagrestconf
+chef-nagios-cookbook github,https://github.com/schubergphilis/nagios
+cucumber,http://cucumber-nagios.org/
+cucumber github,https://github.com/auxesis/cucumber-nagios
+nagios-herald,https://codeascraft.com/2014/06/06/introducing-nagios-herald/
+nagios-herald github,https://github.com/etsy/nagios-herald
+telegraf github,https://github.com/influxdata/telegraf
+node-exporter github,https://github.com/prometheus/node_exporter
+collectd,http://collectd.org/
+collectd github,https://github.com/collectd/collectd
+tcollector github,https://github.com/OpenTSDB/tcollector
+falcon-plus github,https://github.com/open-falcon/falcon-plus
+promtail github,https://github.com/grafana/loki
+beats github,https://github.com/elastic/beats
+logstash github,https://github.com/elastic/logstash
+fluent-bit,https://github.com/fluent/fluent-bit
+fluent github,https://github.com/fluent/fluentd
+influxdata,https://influxdata.com
+influxdata github,https://github.com/influxdata/influxdb
+prometheus,https://prometheus.io/
+prometheus github,https://github.com/prometheus/prometheus
+OpenTSDB,http://opentsdb.net/
+OpenTSDB github,https://github.com/OpenTSDB/opentsdb
+kairosDB,http://kairosdb.github.io/
+kairosDB github,https://github.com/kairosdb/kairosdb
+loki github,https://github.com/grafana/loki
+elasticsearch,https://www.elastic.co/cn/products/elasticsearch
+elasticsearch github,https://github.com/elastic/elasticsearch
+tempo github,https://github.com/grafana/tempo
+new relic github,https://github.com/newrelic
+javamelody github,https://github.com/javamelody/javamelody
+kamon github,https://github.com/kamon-io/Kamon
+kapacitor github,https://github.com/influxdata/kapacitor
+alertmanager github,https://github.com/prometheus/alertmanager
+x-pack,https://www.elastic.co/cn/products/x-pack
+Bosun,http://bosun.org/
+Bosun github,https://github.com/bosun-monitor
+grafana github,https://github.com/grafana/grafana
+chronograf github,https://github.com/influxdata/chronograf
+kibana github,https://github.com/elastic/kibana
+opentelementry,https://opentelemetry.io/
+opentelementry github,https://github.com/open-telemetry)
+zipkin github,https://github.com/openzipkin/zipkin
+Jaeger,https://www.jaegertracing.io/) 
+Jaeger github,https://github.com/jaegertracing
+Sentry github,https://github.com/getsentry/sentry
+pinpoint github,https://github.com/pinpoint-apm/pinpoint
+skywalking,https://skywalking.apache.org/
+skywalking github,https://github.com/apache/skywalking) 
+super-devops,http://super-devops.readthedocs.io/en/latest/
+super-devops github,https://github.com/crazy-canux/super-devops)
+go-devops,https://godoc.org/github.com/crazy-canux/go-devops
+go-devops github,https://github.com/crazy-canux/go-devops) 
+AWS CloudWatch,https://aws.amazon.com/cloudwatch/
+Prometheus,https://prometheus.io/
+StackDriver,https://cloud.google.com/stackdriver/
+Sensu,https://sensu.io/
+Sentry,https://sentry.io/welcome/
+CopperEgg,https://www.idera.com/infrastructure-monitoring-as-a-service
+Crashlytics,https://fabric.io/kits/android/crashlytics
+Kapacitor,https://www.influxdata.com/time-series-platform/kapacitor/
+loggly,https://www.loggly.com/
+logmatic,https://logmatic.io/
+Logstash,https://www.elastic.co/products/logstash
+MongoDB Atlas,https://www.mongodb.com/cloud/atlas
+MongoDB Cloud Manager,https://www.mongodb.com/cloud/cloud-manager
+NewRelic,https://newrelic.com/
+Papertrail,https://papertrailapp.com/
+Pingdom,https://tools.pingdom.com/
+ServerDensity,https://www.serverdensity.com/
+Zabbix,https://www.zabbix.com/
+InsightOps,https://www.rapid7.com/products/insightops/
+AppSignal,https://appsignal.com
+Grafana,https://grafana.com
+VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics/
+Chaos Genius,https://www.chaosgenius.io/
+gansoi,https://github.com/gansoi/gansoi
+netdata,https://github.com/netdata/netdata
+awesome-sre,https://github.com/dastergon/awesome-sre
+howtheysre,https://github.com/upgundecha/howtheysre
+pyroscope,https://github.com/pyroscope-io/pyroscope
+cabot,https://github.com/arachnys/cabot
+wgcloud,https://github.com/tianshiyeben/wgcloud
+gatus,https://github.com/TwiN/gatus
+minicron,https://github.com/jamesrwhite/minicron
+snowflake,https://github.com/subhra74/snowflake
+mist-ce,https://github.com/mistio/mist-ce
+grafana-aws-cloudwatch-dashboards,https://github.com/monitoringartist/grafana-aws-cloudwatch-dashboards
+cloudprober,https://github.com/google/cloudprober
+dd-agent,https://github.com/DataDog/dd-agent
+zabbix-docker-monitoring,https://github.com/monitoringartist/zabbix-docker-monitoring
+DevOps-Bootcamp,https://github.com/kunal-kushwaha/DevOps-Bootcamp
+swagger-stats,https://github.com/slanatech/swagger-stats
+Microsoft365DSC,https://github.com/microsoft/Microsoft365DSC
+centreon,https://github.com/centreon/centreon
+urlooker,https://github.com/710leo/urlooker
+awesome-sre-tools,https://github.com/SquadcastHub/awesome-sre-tools
+awesome-monitoring,https://github.com/crazy-canux/awesome-monitoring
+DevOps-README.md,https://github.com/chris-short/DevOps-README.md
+cachet-monitor,https://github.com/CastawayLabs/cachet-monitor
+automatron,https://github.com/madflojo/automatron
+robusta,https://github.com/robusta-dev/robusta
+slacknimate,https://github.com/mroth/slacknimate
+dogo,https://github.com/liudng/dogo
+sematext-agent-docker,https://github.com/sematext/sematext-agent-docker
+qbit,https://github.com/advantageous/qbit
+mortar,https://github.com/go-masonry/mortar
+healthchecks,https://github.com/hootsuite/healthchecks
+health-checks-api,https://github.com/hootsuite/health-checks-api
+kardia,https://github.com/pipedrive/kardia
+jetson-monitor,https://github.com/juandiii/jetson-monitor
+fastify-boilerplate,https://github.com/mattaharish/fastify-boilerplate
+Health,https://github.com/Kitura/Health
+microspector,https://github.com/microspector/microspector
+akka-microservice-example,https://github.com/innFactory/akka-microservice-example
+distributed-flood-monitoring-system,https://github.com/RobertoDebarba/distributed-flood-monitoring-system
+thingverse,https://github.com/arunkpatra/thingverse
+detecctor-v2,https://github.com/detecc/detecctor-v2
+WebApiMonitoring,https://github.com/smurariu/WebApiMonitoring
+k8s-microservices-example,https://github.com/EnsleyEC/k8s-microservices-example
+sentry,https://github.com/gesquive/sentry
+integration-code-samples,https://github.com/statuscope-io/integration-code-samples
+rtsm.ir,https://github.com/shakibamoshiri/rtsm.ir
+viz-server-app,https://github.com/Prime1Code/viz-server-app
+terminator,https://github.com/shreyaganguly/terminator
+c8y_microservice-nodejs,https://github.com/manasesjesus/c8y_microservice-nodejs
+viz-common,https://github.com/Prime1Code/viz-common
+.github,https://github.com/megaease/.github
+springboot-monitoring-prometheus-grafana,https://github.com/sada498/springboot-monitoring-prometheus-grafana
+MetroFunnel,https://github.com/iraffaele/MetroFunnel
+xyz.example.risingstack.trace,https://github.com/node-xyz/xyz.example.risingstack.trace
+urlmon,https://github.com/hajekjiri/urlmon
+fizz,https://github.com/cyantarek/fizz
+spring-boot-admin-demo,https://github.com/netbuffer/spring-boot-admin-demo
+monitoring-microservice,https://github.com/debuglevel/monitoring-microservice

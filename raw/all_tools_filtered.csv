@@ -1,0 +1,168 @@
+Nagios enterprise,https://www.nagios.com/
+Zabbix enterprise,http://www.zabbix.com/
+Ganglia,http://ganglia.info/
+Zenoss enterprise,https://www.zenoss.com/
+Opserver,http://opserver.org/
+Icinga,https://www.icinga.org/
+Naemon,http://www.naemon.org/
+Shinken,http://www.shinken-monitoring.org/
+Centreon,https://www.centreon.com
+Opsview,https://www.opsview.com/
+Check_mk,http://mathias-kettner.de/check_mk.html
+cabot github,https://github.com/arachnys/cabot
+pagerduty,https://www.pagerduty.com/
+monitoring-plugins,https://www.monitoring-plugins.org/
+arguspy,https://github.com/crazy-canux/arguspy
+check_wmi_plus.pl,http://www.edcint.co.nz/checkwmiplus/
+OSX-Monitoring-Tools,https://github.com/jedda/OSX-Monitoring-Tools
+zplugin,https://github.com/crazy-canux/zplugin
+NRPE_NT SF,https://sourceforge.net/projects/nrpent/
+NSCP,http://nsclient.org/
+MK OMD,http://omdistro.org/
+NSCA-ng,http://www.nsca-ng.org/
+NRDP github,https://github.com/NagiosEnterprises/nrdp
+DNX,http://dnx.sourceforge.net/
+gearman,http://gearman.org/
+op5 merlin,https://kb.op5.com/display/MERLIN/Distributed+%28Merlin%29+Home
+op5 Ninja,https://kb.op5.com/display/GUI/GUI+%28Ninja%29+Home
+consol thruk,http://www.thruk.org/
+nagdash github,https://github.com/lozzd/Nagdash
+nagstamon,https://nagstamon.ifw-dresden.de/
+coffeesaint,https://www.vanheusden.com/java/CoffeeSaint/
+nagmap github,https://github.com/hecko/nagmap/
+nagvis,http://www.nagvis.org/
+realopinsight,http://realopinsight.com/
+rrdtool,http://oss.oetiker.ch/rrdtool/
+statsd github,https://github.com/etsy/statsd
+graphios github,https://github.com/shawn-sterling/graphios
+ledbetter github,https://github.com/github/ledbetter
+nagflux github,https://github.com/Griesbacher/nagflux
+pnp4nagios,http://docs.pnp4nagios.org/
+Graphite web github,https://github.com/graphite-project/graphite-web
+nconf,http://www.nconf.org/dokuwiki/doku.php
+adagios,http://adagios.org/
+dokuwiki,https://www.dokuwiki.org/dokuwiki/
+BP,http://bp-addon.monitoringexchange.org/
+NSTI github,https://github.com/NagiosEnterprises/nsti
+pynag,http://pynag.org/
+nagiosharder github,https://github.com/railsmachine/nagiosharder
+nagrestconf,http://nagrestconf.smorg.co.uk/
+cucumber,http://cucumber-nagios.org/
+nagios-herald,https://codeascraft.com/2014/06/06/introducing-nagios-herald/
+collectd,http://collectd.org/
+falcon-plus github,https://github.com/open-falcon/falcon-plus
+beats github,https://github.com/elastic/beats
+fluent-bit,https://github.com/fluent/fluent-bit
+influxdata,https://influxdata.com
+OpenTSDB,http://opentsdb.net/
+kairosDB,http://kairosdb.github.io/
+elasticsearch,https://www.elastic.co/cn/products/elasticsearch
+javamelody github,https://github.com/javamelody/javamelody
+kamon github,https://github.com/kamon-io/Kamon
+x-pack,https://www.elastic.co/cn/products/x-pack
+Bosun,http://bosun.org/
+kibana github,https://github.com/elastic/kibana
+opentelementry,https://opentelemetry.io/
+zipkin github,https://github.com/openzipkin/zipkin
+Jaeger,https://www.jaegertracing.io/) 
+pinpoint github,https://github.com/pinpoint-apm/pinpoint
+skywalking,https://skywalking.apache.org/
+super-devops,http://super-devops.readthedocs.io/en/latest/
+go-devops,https://godoc.org/github.com/crazy-canux/go-devops
+AWS CloudWatch,https://aws.amazon.com/cloudwatch/
+Prometheus,https://prometheus.io/
+StackDriver,https://cloud.google.com/stackdriver/
+Sensu,https://sensu.io/
+Sentry,https://sentry.io/welcome/
+CopperEgg,https://www.idera.com/infrastructure-monitoring-as-a-service
+Crashlytics,https://fabric.io/kits/android/crashlytics
+Kapacitor,https://www.influxdata.com/time-series-platform/kapacitor/
+loggly,https://www.loggly.com/
+logmatic,https://logmatic.io/
+Logstash,https://www.elastic.co/products/logstash
+MongoDB Atlas,https://www.mongodb.com/cloud/atlas
+MongoDB Cloud Manager,https://www.mongodb.com/cloud/cloud-manager
+NewRelic,https://newrelic.com/
+Papertrail,https://papertrailapp.com/
+Pingdom,https://tools.pingdom.com/
+ServerDensity,https://www.serverdensity.com/
+InsightOps,https://www.rapid7.com/products/insightops/
+AppSignal,https://appsignal.com
+Grafana,https://grafana.com
+VictoriaMetrics,https://github.com/VictoriaMetrics/VictoriaMetrics/
+Chaos Genius,https://www.chaosgenius.io/
+gansoi,https://github.com/gansoi/gansoi
+netdata,https://github.com/netdata/netdata
+howtheysre,https://github.com/upgundecha/howtheysre
+pyroscope,https://github.com/pyroscope-io/pyroscope
+wgcloud,https://github.com/tianshiyeben/wgcloud
+gatus,https://github.com/TwiN/gatus
+minicron,https://github.com/jamesrwhite/minicron
+snowflake,https://github.com/subhra74/snowflake
+mist-ce,https://github.com/mistio/mist-ce
+cloudprober,https://github.com/google/cloudprober
+dd-agent,https://github.com/DataDog/dd-agent
+DevOps-Bootcamp,https://github.com/kunal-kushwaha/DevOps-Bootcamp
+swagger-stats,https://github.com/slanatech/swagger-stats
+Microsoft365DSC,https://github.com/microsoft/Microsoft365DSC
+urlooker,https://github.com/710leo/urlooker
+cachet-monitor,https://github.com/CastawayLabs/cachet-monitor
+automatron,https://github.com/madflojo/automatron
+robusta,https://github.com/robusta-dev/robusta
+slacknimate,https://github.com/mroth/slacknimate
+dogo,https://github.com/liudng/dogo
+qbit,https://github.com/advantageous/qbit
+mortar,https://github.com/go-masonry/mortar
+healthchecks,https://github.com/hootsuite/healthchecks
+kardia,https://github.com/pipedrive/kardia
+jetson-monitor,https://github.com/juandiii/jetson-monitor
+fastify-boilerplate,https://github.com/mattaharish/fastify-boilerplate
+Health,https://github.com/Kitura/Health
+microspector,https://github.com/microspector/microspector
+akka-microservice-example,https://github.com/innFactory/akka-microservice-example
+distributed-flood-monitoring-system,https://github.com/RobertoDebarba/distributed-flood-monitoring-system
+thingverse,https://github.com/arunkpatra/thingverse
+detecctor-v2,https://github.com/detecc/detecctor-v2
+WebApiMonitoring,https://github.com/smurariu/WebApiMonitoring
+k8s-microservices-example,https://github.com/EnsleyEC/k8s-microservices-example
+rtsm.ir,https://github.com/shakibamoshiri/rtsm.ir
+terminator,https://github.com/shreyaganguly/terminator
+c8y_microservice-nodejs,https://github.com/manasesjesus/c8y_microservice-nodejs
+viz-common,https://github.com/Prime1Code/viz-common
+springboot-monitoring-prometheus-grafana,https://github.com/sada498/springboot-monitoring-prometheus-grafana
+MetroFunnel,https://github.com/iraffaele/MetroFunnel
+xyz.example.risingstack.trace,https://github.com/node-xyz/xyz.example.risingstack.trace
+urlmon,https://github.com/hajekjiri/urlmon
+fizz,https://github.com/cyantarek/fizz
+spring-boot-admin-demo,https://github.com/netbuffer/spring-boot-admin-demo
+monitoring-microservice,https://github.com/debuglevel/monitoring-microservice
+scope,https://github.com/weaveworks/scope
+micrometer,https://github.com/micrometer-metrics/micrometer
+MyPerf4J,https://github.com/LinShunKang/MyPerf4J
+pipeline,https://github.com/banzaicloud/pipeline
+examples,https://github.com/confluentinc/examples
+vigil,https://github.com/valeriansaliou/vigil
+promviz,https://github.com/nghialv/promviz
+trace-nodejs,https://github.com/RisingStack/trace-nodejs
+Chronos,https://github.com/open-source-labs/Chronos
+easeagent,https://github.com/megaease/easeagent
+porcupine,https://github.com/AdamBien/porcupine
+observability-workshop,https://github.com/feature-creeps/observability-workshop
+syros,https://github.com/stefanprodan/syros
+microservices-observability,https://github.com/aelkz/microservices-observability
+humainary-signals-services-java,https://github.com/humainary-io/humainary-signals-services-java
+firehose,https://github.com/AdamBien/firehose
+media-search,https://github.com/orijtech/media-search
+haystack-client-java,https://github.com/ExpediaDotCom/haystack-client-java
+DigaoDesk,https://github.com/digao-dalpiaz/DigaoDesk
+Distributed-Platform,https://github.com/darshank15/Distributed-Platform
+pslx,https://github.com/kfrancischen/pslx
+Atlassian,https://www.atlassian.com/devops/devops-tools/devops-monitoring
+Monit,https://mmonit.com/monit//
+Splunk,https://www.splunk.com/
+ChaosSearch,https://www.chaossearch.io/
+Sematext,https://sematext.com/
+BigPanda,https://www.bigpanda.io/our-product/
+AppDynamics,https://www.appdynamics.com/
+Selenium,https://www.selenium.dev/documentation/
+CloudZero,https://www.cloudzero.com/
